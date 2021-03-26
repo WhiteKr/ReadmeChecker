@@ -1,0 +1,34 @@
+{
+    "name": "readmechecker",
+    "version": "1.0.0",
+    "description": "Checker to see if the README.md file is inside GitHub Repositories",
+    "main": "index.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/WhiteKr/ReadmeChecker.git"
+    },
+    "keywords": [
+        "GitHub",
+        "Repository",
+        "Repositories",
+        "README",
+        "README.md",
+        "깃허브",
+        "깃헙",
+        "레포",
+        "레포지토리",
+        "리드미"
+    ],
+    "author": "White Choco",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/WhiteKr/ReadmeChecker/issues"
+    },
+    "homepage": "https://github.com/WhiteKr/ReadmeChecker#readme",
+    "devDependencies": {
+        "typescript": "^4.2.3"
+    }
+}
